@@ -33,7 +33,7 @@ pip install -r requirements.txt
 
 ### Pretrained Weights
 
-Download the checkpoint from [Google Drive](#) and place it in `weights/`:
+Download the checkpoint from [Google Drive](https://drive.google.com/file/d/1TbcRSzO3rGQBuJIPN5P6fQpYYEv4__K4/view?usp=sharing) and place it in `weights/`:
 
 ```
 weights/checkpoint.pth
