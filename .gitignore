@@ -1,0 +1,54 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Environments
+.env
+.venv
+env/
+venv/
+
+# IDE
+.vscode/
+.idea/
+.cursor/
+*.code-workspace
+
+# Model weights and data
+*.pth
+*.pt
+*.npy
+*.npz
+*.pkl
+
+# Experiment outputs
+dump/
+wandb/
+eval_result/
+gensr_results/
+srbench_results/
+core.*
+
+# OS
+.DS_Store
+
+# Logs
+*.log
+
+# Datasets (download separately)
+datasets/
+
+# Trash (soft-delete bin)
+trash/
+
+.mcp.json
+_strip_comments.py
+.claude/
+*logs
